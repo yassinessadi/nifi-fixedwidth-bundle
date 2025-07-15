@@ -1,5 +1,10 @@
-nifi-fixedwidth-bundle/
-├── .gitignore
-├── nifi-fixedwidth-nar/
-├── nifi-fixedwidth-processors/
-└── pom.xml
+```
+/nifi-fixedwidth-bundle/
+    └──── nifi-fixedwidth-processors/
+        ├── nifi-fixedwidth-nar/
+        └── pom.xml
+
+/.gitignore
+README.md
+.git/
+```
