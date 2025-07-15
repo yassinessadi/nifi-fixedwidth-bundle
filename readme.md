@@ -8,3 +8,13 @@
 README.md
 .git/
 ```
+
+Unit Test:
+```
+mvn test -rf :nifi-fixedwidth-processors
+```
+
+To build :
+```
+mvn install -rf :nifi-fixedwidth-processors
+```
