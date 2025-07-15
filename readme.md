@@ -7,6 +7,10 @@
 /.gitignore
 README.md
 .git/
+
+SetUp & Runing
+```
+mvn clean install
 ```
 
 Unit Test:
