@@ -1,0 +1,10 @@
+nifi-fixedwidth-bundle/**/target/
+nifi-fixedwidth-bundle/**/logs/
+nifi-fixedwidth-bundle/**/*.log
+
+nifi-fixedwidth-bundle/**/*.nar
+
+
+*.swp
+*.bak
+*.tmp
